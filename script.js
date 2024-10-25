@@ -156,7 +156,7 @@ document.addEventListener('DOMContentLoaded', () => {
             productItem.classList.add('product-item');
             productItem.innerHTML = `
                 <img src="${product.img}" alt="${product.name}" onclick="showProductModal(${index})">
-                <h3>${product.name} 🕯️</h3>
+                <h3>${product.name} 🌸</h3>
                 <p>${Object.keys(product.price).map(size => `${size}: $${product.price[size].toLocaleString("es-MX")} MXN`).join(" / ")}</p>
                 <p>${product.includes}</p>
             `;
