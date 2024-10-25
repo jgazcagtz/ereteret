@@ -1,0 +1,88 @@
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ 
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&display=swap" rel="stylesheet">
+    <title>🕯️Eret Eret - Velas Aromáticas</title>
+
+    <!-- Link to External CSS -->
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Load the custom Cirka font -->
+    
+</head>
+
+<body data-theme="light">
+    <header>
+        <img src="https://i.imgur.com/RT0Wa7b.png" alt="Purple Soda T-shirts Logo">
+        <h3 id="slogan">Velas hechas en México con mucho 🫶 de manera artesanal.</p></h3><br>      
+  
+  <div class="header-info">
+         <br>  <p>Una mezcla de aromas deliciosos que te ayudarán a:</strong></p><br>
+
+ <p>🌿 <strong>Despejarte</strong>: Aromas frescos que ayudan a renovar tu energía y claridad mental.</li></p><br>
+ <p> 😌 <strong>Relajarte</strong>: Sumérgete en una sensación de calma para esos momentos en los que necesitas desconectar.</li></p><br>
+  <p>🧘 <strong>Concentrarte</strong>: Potencia tu enfoque y productividad con fragancias diseñadas para mantener tu mente en el presente.</li></p><br>
+  <p>🌸 <strong>Aromatizar tus espacios favoritos</strong>: Mantén el ambiente con un toque de frescura y bienestar.</li></p><br>
+
+<p>¡Cada fragancia es una invitación a mejorar tu día!</p><br>
+
+    </header><br>
+    <main>
+      
+       <h2>NUESTRO CATÁLOGO🌟</h2>
+        </div><br>
+        <div id="menu" class="product-grid"></div>
+       
+      <div class="menu-title-container">
+           
+        </div>
+        <div id="cart">
+            <h3>🛒 Carrito 🕯️</h3>
+            <div id="cart-items"></div>
+            <p id="cart-total">Total: $0.00</p>
+            <p>Dirección de entrega (no incluye envío):</p>
+            <textarea id="delivery-address" placeholder="Ingrese la dirección de entrega"></textarea>
+            <p>Notas:</p>
+            <textarea id="notes" placeholder="Ingrese notas adicionales"></textarea>
+            <p>Pagar con PayPal:</p><br>
+            <div id="paypal-form"></div>
+            <p>Pagar con Mercado Pago:</p>
+            <a href="https://link.mercadopago.com.mx/segurodeviajes" class="mercadopago-btn" target="_blank">Pagar con Mercado Pago</a>
+            <button class="whatsapp-btn" onclick="confirmByWhatsApp()">Confirmar por WhatsApp</button>
+        </div>
+        <button id="cart-btn" onclick="toggleCart()">🛒</button>
+
+        
+    </main>
+    <footer>
+        
+        <p>ERET ERET ® 🕯️</p>
+    </footer>
+
+    <!-- Carousel Modal for Images and Product Details -->
+    <div id="product-modal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="toggleProductModal()">&times;</span>
+            <div class="carousel" id="carousel">
+                <div class="carousel-images" id="carousel-images"></div>
+                <button class="carousel-control" id="prev-btn" onclick="prevSlide()">&#10094;</button>
+                <button class="carousel-control" id="next-btn" onclick="nextSlide()">&#10095;</button>
+            </div>
+            <div id="product-details"></div>
+           
+       
+            
+        </div>
+        <img id="zoomed-image" class="zoomed-image" />
+    </div>
+
+    <!-- Chat Bot Integration -->
+    
+    <script src="script.js"></script>
+</body>
+
+</html>
