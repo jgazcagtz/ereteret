@@ -9,22 +9,22 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     { 
         name: "Vela aroma Lavanda", 
-        img: "https://i.imgur.com/RT0Wa7b.png", 
-        images: ["https://i.imgur.com/RT0Wa7b.png"], 
+        img: "https://i.imgur.com/VZMHnRR.jpeg", 
+        images: ["https://i.imgur.com/VZMHnRR.jpeg"], 
         price: { "7oz": 190, "12oz": 310 }, 
         includes: "Vela de LAVANDA, elimina la ansiedad, perfecta para conciliar el sueño y fortalecer tu sistema nervioso."
     },
     { 
         name: "Vela aroma Romero", 
-        img: "https://i.imgur.com/RT0Wa7b.png", 
-        images: ["https://i.imgur.com/RT0Wa7b.png"], 
+        img: "https://i.imgur.com/0RrrjuK.jpeg", 
+        images: ["https://i.imgur.com/0RrrjuK.jpeg"], 
         price: { "7oz": 190, "12oz": 310 }, 
         includes: "Vela de ROMERO, limpia y purifica tu ambiente, excelente para aumentar nuestra concentración."
     },
     { 
         name: "Vela aroma Canela", 
-        img: "https://i.imgur.com/RT0Wa7b.png", 
-        images: ["https://i.imgur.com/RT0Wa7b.png"], 
+        img: "https://i.imgur.com/s0zg9IM.jpeg", 
+        images: ["https://i.imgur.com/s0zg9IM.jpeg"], 
         price: { "7oz": 190, "12oz": 310 }, 
         includes: "Vela de CANELA, afrodisíaca, estimulante mental, perfecta para un despeje mental."
     },
@@ -37,8 +37,8 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     { 
         name: "Vela aroma Citronela", 
-        img: "https://i.imgur.com/RT0Wa7b.png", 
-        images: ["https://i.imgur.com/RT0Wa7b.png"], 
+        img: "https://i.imgur.com/WKckBXW.jpeg", 
+        images: ["https://i.imgur.com/WKckBXW.jpeg"], 
         price: { "7oz": 190, "12oz": 310 }, 
         includes: "Vela de CITRONELA, cítrica, ideal para evitar mosquitos y refrescar tu ambiente."
     },
@@ -51,92 +51,92 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     { 
         name: "Vela Mictlán - Incluye separador de libros", 
-        img: "https://i.imgur.com/RT0Wa7b.png", 
-        images: ["https://i.imgur.com/RT0Wa7b.png"], 
+        img: "https://i.imgur.com/CHWiCdl.jpeg", 
+        images: ["https://i.imgur.com/CHWiCdl.jpeg"], 
         price: { "7oz": 199 }, 
         includes: "Inspirada en el Mictlán mexica, representa la conexión con almas que ya no están en este plano."
     },
     { 
         name: "Vela Coatlicue - Incluye separador de libros", 
-        img: "https://i.imgur.com/RT0Wa7b.png", 
-        images: ["https://i.imgur.com/RT0Wa7b.png"], 
+        img: "https://i.imgur.com/XU29wEV.jpeg", 
+        images: ["https://i.imgur.com/XU29wEV.jpeg"], 
         price: { "7oz": 199 }, 
         includes: "Inspirada en la diosa Coatlicue, dualidad de vida y muerte, generadora de vida en la tierra."
     },
     { 
         name: "Vela Feliz Vuelta al Sol", 
-        img: "https://i.imgur.com/RT0Wa7b.png", 
-        images: ["https://i.imgur.com/RT0Wa7b.png"], 
+        img: "https://i.imgur.com/7k0x9aU.jpeg", 
+        images: ["https://i.imgur.com/7k0x9aU.jpeg"], 
         price: { "6oz": 220, "12oz": 310 }, 
         includes: "Inspirada en el mito griego, esta vela celebra la vida y protege contra malas energías."
     },
     { 
         name: "Vela SOMOS PLANTAS", 
-        img: "https://i.imgur.com/RT0Wa7b.png", 
-        images: ["https://i.imgur.com/RT0Wa7b.png"], 
+        img: "https://i.imgur.com/uQLAofE.jpeg", 
+        images: ["https://i.imgur.com/uQLAofE.jpeg"], 
         price: { "8oz": 230 }, 
         includes: "Combinación de CEREZA y COCO, invita a florecer y cuidarnos como plantas."
     },
     { 
         name: "Vela CONFÍA", 
-        img: "https://i.imgur.com/RT0Wa7b.png", 
-        images: ["https://i.imgur.com/RT0Wa7b.png"], 
+        img: "https://i.imgur.com/O2mMqod.jpeg", 
+        images: ["https://i.imgur.com/O2mMqod.jpeg"], 
         price: { "8oz": 230 }, 
         includes: "Cítrica combinación de TORONJA y BERGAMOTA para descubrir la confianza interior."
     },
     { 
         name: "Vela TE ABRAZO", 
-        img: "https://i.imgur.com/RT0Wa7b.png", 
-        images: ["https://i.imgur.com/RT0Wa7b.png"], 
+        img: "https://i.imgur.com/1P5jZ7E.jpeg", 
+        images: ["https://i.imgur.com/1P5jZ7E.jpeg"], 
         price: { "8oz": 230 }, 
         includes: "Dulce combinación de UVA y MIEL, como un abrazo necesario."
     },
     { 
         name: "Vela VAS A SANAR", 
-        img: "https://i.imgur.com/RT0Wa7b.png", 
-        images: ["https://i.imgur.com/RT0Wa7b.png"], 
+        img: "https://i.imgur.com/KjiO2cA.jpeg", 
+        images: ["https://i.imgur.com/KjiO2cA.jpeg"], 
         price: { "8oz": 230 }, 
         includes: "Suave combinación de INCIENSO y JENGIBRE para recordar que la sanación llega."
     },
     { 
         name: "Vela TODO PASA", 
-        img: "https://i.imgur.com/RT0Wa7b.png", 
-        images: ["https://i.imgur.com/RT0Wa7b.png"], 
+        img: "https://i.imgur.com/ovWRBve.jpeg", 
+        images: ["https://i.imgur.com/ovWRBve.jpeg"], 
         price: { "8oz": 230 }, 
         includes: "Aroma de SÁNDALO y NARANJA para aprender de los procesos."
     },
     { 
         name: "Vela Agua", 
-        img: "https://i.imgur.com/RT0Wa7b.png", 
-        images: ["https://i.imgur.com/RT0Wa7b.png"], 
+        img: "https://i.imgur.com/4tW2k2F.jpeg", 
+        images: ["https://i.imgur.com/4tW2k2F.jpeg"], 
         price: { "8oz": 270 }, 
         includes: "Combinación de COCO y BERGAMOTA, ayuda a fluir y aceptarse."
     },
     { 
         name: "Vela Fuego", 
-        img: "https://i.imgur.com/RT0Wa7b.png", 
-        images: ["https://i.imgur.com/RT0Wa7b.png"], 
+        img: "https://i.imgur.com/uZhhLoN.jpeg", 
+        images: ["https://i.imgur.com/uZhhLoN.jpeg"], 
         price: { "8oz": 270 }, 
         includes: "FRUTOS ROJOS y CANELA, para recordar el fuego interior y la pasión."
     },
     { 
         name: "Vela Aire", 
-        img: "https://i.imgur.com/RT0Wa7b.png", 
-        images: ["https://i.imgur.com/RT0Wa7b.png"], 
+        img: "https://i.imgur.com/mC54fXw.jpeg", 
+        images: ["https://i.imgur.com/mC54fXw.jpeg"], 
         price: { "8oz": 270 }, 
         includes: "LAVANDA y EUCALIPTO, unión de razón y emoción para creatividad."
     },
     { 
         name: "Vela Tierra", 
-        img: "https://i.imgur.com/RT0Wa7b.png", 
-        images: ["https://i.imgur.com/RT0Wa7b.png"], 
+        img: "https://i.imgur.com/JXXCGh5.jpeg", 
+        images: ["https://i.imgur.com/JXXCGh5.jpeg"], 
         price: { "8oz": 270 }, 
         includes: "Vainilla y Cedro, equilibrio con el entorno y fuerza para florecer."
     },
     { 
         name: "Vela PLIS CUÍDAME DE LOS CULEROS", 
-        img: "https://i.imgur.com/RT0Wa7b.png", 
-        images: ["https://i.imgur.com/RT0Wa7b.png"], 
+        img: "https://i.imgur.com/VHSr7dM.jpeg", 
+        images: ["https://i.imgur.com/VHSr7dM.jpeg"], 
         price: { "12oz": 310 }, 
         includes: "Naranja y Romero, para mantenernos activas e intuitivas."
     }
