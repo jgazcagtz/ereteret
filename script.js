@@ -2,8 +2,8 @@ document.addEventListener('DOMContentLoaded', () => {
    const products = [
     { 
         name: "Vela aroma Vainilla", 
-        img: "https://i.imgur.com/RT0Wa7b.png", 
-        images: ["https://i.imgur.com/RT0Wa7b.png"], 
+        img: "https://i.imgur.com/Pz46v7y.jpeg", 
+        images: ["https://i.imgur.com/Pz46v7y.jpeg"], 
         price: { "7oz": 190, "12oz": 310 }, 
         includes: "Vela de VAINILLA, dulce como el aroma a pastel o pan, antidepresiva y potenciadora de energía."
     },
@@ -30,8 +30,8 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     { 
         name: "Vela aroma Café", 
-        img: "https://i.imgur.com/RT0Wa7b.png", 
-        images: ["https://i.imgur.com/RT0Wa7b.png"], 
+        img: "https://i.imgur.com/AIQ7Y4e.jpeg", 
+        images: ["https://i.imgur.com/AIQ7Y4e.jpeg"], 
         price: { "7oz": 190, "12oz": 310 }, 
         includes: "Vela de CAFÉ, aroma intenso e ideal para despertar y empezar tu día."
     },
@@ -44,8 +44,8 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     { 
         name: "Vela aroma Frutos Rojos", 
-        img: "https://i.imgur.com/RT0Wa7b.png", 
-        images: ["https://i.imgur.com/RT0Wa7b.png"], 
+        img: "https://i.imgur.com/pzaRmEZ.jpeg", 
+        images: ["https://i.imgur.com/pzaRmEZ.jpeg"], 
         price: { "7oz": 190, "12oz": 310 }, 
         includes: "Vela de FRUTOS ROJOS, aroma fresco y dulce, ideal para equilibrar el ambiente."
     },
